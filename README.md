@@ -1,6 +1,6 @@
 # Native iOS Recipe App
 
-Develope a native iOS app that allows users to browse recipes using the [MealDB API](https://themealdb.com/api.php) for Fetch iOS Coding Challenge.
+Developed a native iOS app that allows users to browse recipes using the [MealDB API](https://themealdb.com/api.php) for Fetch iOS Coding Challenge.
 
 The app utilizes two endpoints:
 
