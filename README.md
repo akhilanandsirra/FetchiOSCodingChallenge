@@ -13,6 +13,23 @@ The app displays a list of meals in the Dessert category, sorted alphabetically.
 - Instructions
 - Ingredients/measurements
 
+## Instructions
+
+1. Clone the Github repository onto your local machine. You can use the command line or a Git client like GitKraken to do this. For example, if you have Git installed on your machine, you can run the following command in your terminal:
+```[terminal]
+git clone https://github.com/akhilanandsirra/FetchiOSCodingChallenge/
+```
+2. Open Xcode and select "Open a project or file" from the startup screen.
+3. Navigate to the folder where you cloned the repository and select the .xcodeproj file.
+
+4. Once the project is open in Xcode, select a device or simulator to run the app on from the top left-hand corner of the Xcode window.
+
+5. Build and run the app by pressing the "Run" button in the top left-hand corner of the Xcode window.
+
+6. If there are any errors or missing dependencies, Xcode will prompt you to install them.
+
+That's it! the iOS app should now be running on the selected device or simulator.
+
 ## Highlights
 
 - To improve user experience, I implemented the `.searchable` view modifier to enable filtering of the list of desserts
